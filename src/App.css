@@ -10,16 +10,21 @@ main {
   max-width: 680px;
   min-height: 100vh;
   padding: 72px 0;
-  text-align: center;
+  /* text-align: center; */
 }
 h1 {
   font-size: 45px;
+  margin: 0;
+  margin-bottom: 1rem;
 }
 h2 {
   margin-top: 1.5em;
 }
 p {
+  margin: 0;
   font-size: 16px;
+  margin-bottom: 1rem;
+  line-height: 1.375rem;
 }
 a {
   border-bottom: 1px solid white;
